@@ -19,15 +19,16 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/jltravler/e"
+        "url": "https://github.com/jltraveler/e-ase"
     },
     "author": {
         "name": "Federico Rojas",
-        "url": "https://github.com/DrVicki"
+        "url": "https://github.com/jltraveler"
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/DrVicki/starter/issues"
+        "url": "https://github.com/jltraveler/e-ase/issues"
+
     },
     "keywords": [
         "react",
@@ -41,7 +42,7 @@
         "eslint",
         "jest"
     ],
-    "homepage": "https://github.com/DrVicki/starter#readme",
+    "homepage": "https://github.com/jltraveler",
     "engines": {
         "node": ">=12.0.0"
     },
