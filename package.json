@@ -18,34 +18,11 @@
         "test:watch-server": "./scripts/test-watch-server.sh"
     },
     "repository": {
-        "type": "git",
-        "url": "https://github.com/jltraveler/e-ase"
-    },
-    "author": {
-        "name": "Federico Rojas",
-        "url": "https://github.com/jltraveler"
-    },
-    "license": "MIT",
-    "bugs": {
-        "url": "https://github.com/jltraveler/e-ase/issues"
+        "type": "git"
 
     },
-    "keywords": [
-        "react",
-        "redux",
-        "webpack",
-        "express",
-        "passport",
-        "bulma",
-        "fontawesome",
-        "ramda",
-        "eslint",
-        "jest"
-    ],
-    "homepage": "https://github.com/jltraveler",
-    "engines": {
-        "node": ">=12.0.0"
-    },
+
+
     "dependencies": {
         "@fortawesome/fontawesome-svg-core": "^6.1.1",
         "@fortawesome/free-brands-svg-icons": "^6.1.1",

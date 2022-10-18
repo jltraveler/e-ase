@@ -6,9 +6,10 @@ const root = createRoot(container);
 root.render(<app/>);
 
 
+
 import 'core-js/stable';
 import 'regenerator-runtime/runtime';
-import 'react-notifications-component/dist/theme.css';
+import 'react-notifications-component/theme.css';
 import 'animate.css/animate.compat.css';
 
 import { store, history } from '_store';
